@@ -25,6 +25,10 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 📧 **[juanestebangaviral@gmail.com]**
 
+
+### :zap: Actividad reciente
+<!--START_SECTION:ACTIVITY  -->
+<!--END_SECTION:ACTIVITY  -->
 ---
 
 Gracias por visitar mi perfil. ¡Seguimos creciendo juntos! 💻🌱
