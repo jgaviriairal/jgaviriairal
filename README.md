@@ -27,8 +27,10 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 
 ### :zap: Actividad reciente
-<!--START_SECTION:ACTIVITY  -->
-<!--END_SECTION:ACTIVITY  -->
+<!--RECENT_ACTIVITY:start  -->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 ---
 
 Gracias por visitar mi perfil. ¡Seguimos creciendo juntos! 💻🌱
