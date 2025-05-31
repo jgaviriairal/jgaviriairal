@@ -28,15 +28,15 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
-2. 🎉 Merged PR [#12](https://github.com/KatonZapata/Checkmylife/pull/12) in [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
-3. ⬆️ Pushed 2 commit(s) to [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
-4. 🎉 Merged PR [#10](https://github.com/KatonZapata/Checkmylife/pull/10) in [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
-5. 💪 Opened PR [#10](https://github.com/KatonZapata/Checkmylife/pull/10) in [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
+1. 💪 Opened PR [#14](https://github.com/KatonZapata/Checkmylife/pull/14) in [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
+2. ⬆️ Pushed 17 commit(s) to [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
+3. ⬆️ Pushed 10 commit(s) to [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
+4. 🎉 Merged PR [#12](https://github.com/KatonZapata/Checkmylife/pull/12) in [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
+5. ⬆️ Pushed 2 commit(s) to [KatonZapata/Checkmylife](https://github.com/KatonZapata/Checkmylife)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 30th, 2025, 12:21:23 PM
+Last Updated: Saturday, May 31st, 2025, 12:54:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
