@@ -28,15 +28,15 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jgaviriairal/ParqueaderoPython](https://github.com/jgaviriairal/ParqueaderoPython) from [KatonZapata/ParqueaderoPy](https://github.com/KatonZapata/ParqueaderoPy)<br>
-2. 📔 Created new repository [jgaviriairal/carritoComprasTodo](https://github.com/jgaviriairal/carritoComprasTodo)<br>
-3. 📔 Created new repository [jgaviriairal/examen1Backend2](https://github.com/jgaviriairal/examen1Backend2)<br>
-4. ⬆️ Pushed 1 commit(s) to [jgaviriairal/carritoCompras](https://github.com/jgaviriairal/carritoCompras)<br>
-5. 🤝 Became collaborator on [KatonZapata/ParqueaderoPy](https://github.com/KatonZapata/ParqueaderoPy)<br>
+1. 💪 Opened PR [#13](https://github.com/profejuanjosegallego/Integrador_back2_sabados/pull/13) in [profejuanjosegallego/Integrador_back2_sabados](https://github.com/profejuanjosegallego/Integrador_back2_sabados)<br>
+2. ⬆️ Pushed 3 commit(s) to [jgaviriairal/Integrador_back2_sabados](https://github.com/jgaviriairal/Integrador_back2_sabados)<br>
+3. ⬆️ Pushed 2 commit(s) to [jgaviriairal/Integrador_back2_sabados](https://github.com/jgaviriairal/Integrador_back2_sabados)<br>
+4. 🔱 Forked [jgaviriairal/Integrador_back2_sabados](https://github.com/jgaviriairal/Integrador_back2_sabados) from [profejuanjosegallego/Integrador_back2_sabados](https://github.com/profejuanjosegallego/Integrador_back2_sabados)<br>
+5. 🔱 Forked [jgaviriairal/ParqueaderoPython](https://github.com/jgaviriairal/ParqueaderoPython) from [KatonZapata/ParqueaderoPy](https://github.com/KatonZapata/ParqueaderoPy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 30th, 2025, 12:18:58 PM
+Last Updated: Sunday, August 31st, 2025, 12:56:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
