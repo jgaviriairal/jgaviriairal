@@ -28,15 +28,15 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
-2. 💪 Opened PR [#1](https://github.com/Yessper13/practicaSpring/pull/1) in [Yessper13/practicaSpring](https://github.com/Yessper13/practicaSpring)<br>
-3. ⬆️ Pushed 1 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
-4. 🔱 Forked [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring) from [Yessper13/practicaSpring](https://github.com/Yessper13/practicaSpring)<br>
-5. 🔱 Forked [jgaviriairal/post_facebookJSX](https://github.com/jgaviriairal/post_facebookJSX) from [JUJOSANE/post_facebookJSX](https://github.com/JUJOSANE/post_facebookJSX)<br>
+1. 🔱 Forked [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React) from [KatonZapata/Hotel_React](https://github.com/KatonZapata/Hotel_React)<br>
+2. ⬆️ Pushed 10 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
+3. 💪 Opened PR [#1](https://github.com/Yessper13/practicaSpring/pull/1) in [Yessper13/practicaSpring](https://github.com/Yessper13/practicaSpring)<br>
+4. ⬆️ Pushed 1 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
+5. 🔱 Forked [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring) from [Yessper13/practicaSpring](https://github.com/Yessper13/practicaSpring)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 20th, 2025, 12:49:16 AM
+Last Updated: Saturday, September 20th, 2025, 12:19:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
