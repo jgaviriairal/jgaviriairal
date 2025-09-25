@@ -28,15 +28,15 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jgaviriairal/Integrador_back2_sabados](https://github.com/jgaviriairal/Integrador_back2_sabados)<br>
-2. ⬆️ Pushed 4 commit(s) to [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React)<br>
-3. 💪 Opened PR [#1](https://github.com/KatonZapata/Hotel_React/pull/1) in [KatonZapata/Hotel_React](https://github.com/KatonZapata/Hotel_React)<br>
-4. ⬆️ Pushed 1 commit(s) to [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React)<br>
-5. 🔱 Forked [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React) from [KatonZapata/Hotel_React](https://github.com/KatonZapata/Hotel_React)<br>
+1. ⬆️ Pushed 10 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
+2. ⬆️ Pushed 1 commit(s) to [jgaviriairal/Integrador_back2_sabados](https://github.com/jgaviriairal/Integrador_back2_sabados)<br>
+3. ⬆️ Pushed 4 commit(s) to [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React)<br>
+4. 💪 Opened PR [#1](https://github.com/KatonZapata/Hotel_React/pull/1) in [KatonZapata/Hotel_React](https://github.com/KatonZapata/Hotel_React)<br>
+5. ⬆️ Pushed 1 commit(s) to [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 25th, 2025, 12:52:15 AM
+Last Updated: Thursday, September 25th, 2025, 12:22:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
