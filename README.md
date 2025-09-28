@@ -28,15 +28,15 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
-2. ⬆️ Pushed 10 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
-3. ⬆️ Pushed 1 commit(s) to [jgaviriairal/Integrador_back2_sabados](https://github.com/jgaviriairal/Integrador_back2_sabados)<br>
-4. ⬆️ Pushed 4 commit(s) to [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React)<br>
-5. 💪 Opened PR [#1](https://github.com/KatonZapata/Hotel_React/pull/1) in [KatonZapata/Hotel_React](https://github.com/KatonZapata/Hotel_React)<br>
+1. 🔱 Forked [jgaviriairal/parcial2back2](https://github.com/jgaviriairal/parcial2back2) from [profejuanjosegallego/parcial2back2](https://github.com/profejuanjosegallego/parcial2back2)<br>
+2. ⬆️ Pushed 5 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
+3. ⬆️ Pushed 10 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
+4. ⬆️ Pushed 1 commit(s) to [jgaviriairal/Integrador_back2_sabados](https://github.com/jgaviriairal/Integrador_back2_sabados)<br>
+5. ⬆️ Pushed 4 commit(s) to [jgaviriairal/Hotel_React](https://github.com/jgaviriairal/Hotel_React)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 27th, 2025, 12:18:42 PM
+Last Updated: Sunday, September 28th, 2025, 12:57:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
