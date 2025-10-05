@@ -28,15 +28,15 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [jgaviriairal/certificados](https://github.com/jgaviriairal/certificados)<br>
-2. 💪 Opened PR [#58](https://github.com/profejuanjosegallego/parcial2back2/pull/58) in [profejuanjosegallego/parcial2back2](https://github.com/profejuanjosegallego/parcial2back2)<br>
-3. 🔱 Forked [jgaviriairal/parcial2back2](https://github.com/jgaviriairal/parcial2back2) from [profejuanjosegallego/parcial2back2](https://github.com/profejuanjosegallego/parcial2back2)<br>
-4. ⬆️ Pushed 5 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
-5. ⬆️ Pushed 10 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
+1. 📔 Created new repository [jgaviriairal/apiDistriHogar](https://github.com/jgaviriairal/apiDistriHogar)<br>
+2. 📔 Created new repository [jgaviriairal/certificados](https://github.com/jgaviriairal/certificados)<br>
+3. 💪 Opened PR [#58](https://github.com/profejuanjosegallego/parcial2back2/pull/58) in [profejuanjosegallego/parcial2back2](https://github.com/profejuanjosegallego/parcial2back2)<br>
+4. 🔱 Forked [jgaviriairal/parcial2back2](https://github.com/jgaviriairal/parcial2back2) from [profejuanjosegallego/parcial2back2](https://github.com/profejuanjosegallego/parcial2back2)<br>
+5. ⬆️ Pushed 5 commit(s) to [jgaviriairal/practicaSpring](https://github.com/jgaviriairal/practicaSpring)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 4th, 2025, 12:18:18 PM
+Last Updated: Sunday, October 5th, 2025, 12:56:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
