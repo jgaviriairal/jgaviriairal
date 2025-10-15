@@ -28,15 +28,15 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/JuanEstebanHoy0s/integrador_frontend/pull/1) in [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
-2. 🔱 Forked [jgaviriairal/integrador_frontend](https://github.com/jgaviriairal/integrador_frontend) from [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
-3. 📔 Created new repository [jgaviriairal/apiDistriHogar](https://github.com/jgaviriairal/apiDistriHogar)<br>
-4. 📔 Created new repository [jgaviriairal/certificados](https://github.com/jgaviriairal/certificados)<br>
-5. 💪 Opened PR [#58](https://github.com/profejuanjosegallego/parcial2back2/pull/58) in [profejuanjosegallego/parcial2back2](https://github.com/profejuanjosegallego/parcial2back2)<br>
+1. ⬆️ Pushed undefined commit(s) to [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
+2. 💪 Opened PR [#6](undefined) in [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
+3. ⬆️ Pushed undefined commit(s) to [jgaviriairal/integrador_frontend](https://github.com/jgaviriairal/integrador_frontend)<br>
+4. ⬆️ Pushed undefined commit(s) to [jgaviriairal/integrador_frontend](https://github.com/jgaviriairal/integrador_frontend)<br>
+5. 🤝 Became collaborator on [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 12:23:01 PM
+Last Updated: Wednesday, October 15th, 2025, 12:53:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
