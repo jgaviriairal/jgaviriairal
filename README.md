@@ -29,14 +29,14 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [jgaviriairal/integrador_frontend](https://github.com/jgaviriairal/integrador_frontend)<br>
-2. ⬆️ Pushed undefined commit(s) to [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
-3. 💪 Opened PR [#27](undefined) in [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
-4. ⬆️ Pushed undefined commit(s) to [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
+2. ⬆️ Pushed undefined commit(s) to [jgaviriairal/integrador_frontend](https://github.com/jgaviriairal/integrador_frontend)<br>
+3. ⬆️ Pushed undefined commit(s) to [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
+4. 💪 Opened PR [#27](undefined) in [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
 5. ⬆️ Pushed undefined commit(s) to [JuanEstebanHoy0s/integrador_frontend](https://github.com/JuanEstebanHoy0s/integrador_frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 23rd, 2025, 12:54:00 AM
+Last Updated: Thursday, October 23rd, 2025, 12:22:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
