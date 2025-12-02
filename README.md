@@ -28,11 +28,11 @@ Si deseas ponerte en contacto conmigo, puedes escribirme a:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jgaviriairal/elite-web-developer-books](https://github.com/jgaviriairal/elite-web-developer-books) from [jgaviriairal/elite-web-developer-books](https://github.com/jgaviriairal/elite-web-developer-books)<br>
+1. 🔱 Forked [jgaviriairal/elite-web-developer-books](https://github.com/jgaviriairal/elite-web-developer-books) from [dileofrancoj/elite-web-developer-books](https://github.com/dileofrancoj/elite-web-developer-books)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 12:24:57 PM
+Last Updated: Tuesday, December 2nd, 2025, 12:57:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
